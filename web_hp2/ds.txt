@@ -1,0 +1,9 @@
+Nguyễn Văn A,10,4A1,Nam Định
+Nguyễn Văn B,11,5A2,Hà Nội
+Nguyễn Văn C,12,6A2,Hà Giang
+Nguyễn Văn D,13,7A2,Thái Bình
+Nguyễn Văn E,14,8A2,Hải Phòng
+Nguyễn Văn F,15,9A2,Nam Định
+Bùi Đăng Phúc,1,10A2,Bình Dương
+linn,1,2,nđ
+huyen,18,12,nam định
